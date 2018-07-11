@@ -1,9 +1,9 @@
 return {
-	bot_api_key = "569372774:AAE3AHQHOX__JC-OyfPNiLtUKJGE0iDCm0Y",
+	bot_api_key = "Cole-TOKEN-aqui",
 	allowed_updates = {"message", "edited_message", "callback_query"},
 	channel = '@Moderadoresbot', -- Canal de seu bot '@'
 	source_code = 'https://github.com/viniciusvrc/',
-	help_groups_link = 'telegram.me/Moderadoresbot',	
+	help_groups_link = 'telegram.me/Moderadoresbot',
 	human_readable_version = '1.0',
 	cmd = '^[/!#]',
 	db = 0, -- redis db: 0
