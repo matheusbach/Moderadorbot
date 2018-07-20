@@ -5,6 +5,12 @@ Preparando o sistema para rodar o bot
 
 1 - COMANDO
 
+$ sudo apt-get update
+
+$ sudo apt-get upgrade
+
+$ sudo apt-get install libreadline-dev libssl-dev lua5.2 liblua5.2-dev git make unzip redis-server curl libcurl4-gnutls-dev
+
 $ git clone https://github.com/viniciusvrc/Moderadorbot
 
 $ sudo chmod -R 755 *
